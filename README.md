@@ -1,10 +1,5 @@
 `Unofficial cnn indonesia api news`
 
-## Penggunaan di local server
-```bash
-git clone https://github.com/rizki4106/cnnindonesia-news-api.git
-```
-
 ```bash
 cd cnnindonesia-news-api && pip install -r requirements.txt
 ```

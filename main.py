@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 
-from src.code import Code
+from src.code_1 import Code
 
 app = Flask(__name__)
 
